@@ -50,7 +50,7 @@ The Mobile Sales Dashboard helps businesses monitor and evaluate sales trends, c
 
 ## 📈 Dashboard Preview
 
-![Mobile Sales Dashboard](Dashboard%20Image.png)
+![Mobile Sales Dashboard](https://github.com/parasmahajan78/Mobile-Sales-Dashboard/blob/eafab3db3f030348dc34807beb214b92bb04901d/Mobile%20Sales%20Dashboard%20Project/Dashboard%20Image.png)
 
 ---
 
@@ -114,8 +114,8 @@ Mobile-Sales-Dashboard/
 
 **Paras Mahajan**
 
-- LinkedIn: Add Your LinkedIn Profile
-- GitHub: https://github.com/your-github-username
+- LinkedIn: https://www.linkedin.com/in/paras-mahajan-35a5632a1/
+- GitHub: parasmahajan78
 
 ---
 
