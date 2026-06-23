@@ -50,7 +50,7 @@ The Mobile Sales Dashboard helps businesses monitor and evaluate sales trends, c
 
 ## 📈 Dashboard Preview
 
-![Mobile Sales Dashboard](https://github.com/parasmahajan78/Mobile-Sales-Dashboard/blob/eafab3db3f030348dc34807beb214b92bb04901d/Mobile%20Sales%20Dashboard%20Project/Dashboard%20Image.png)
+![Mobile Sales Dashboard](https://github.com/parasmahajan78/Mobile-Sales-Dashboard/blob/07e8cd16c453b7a46ea9b052020f733de47cd4ab/Mobile%20Sales%20Dashboard%20Project/Mobile%20Dashboard.png)
 
 ---
 
